@@ -1,0 +1,26 @@
+body{
+	font: Lucida,sans-serif;
+	color: rgba(0,0,0,.6);
+	text-align: center;
+	background: linear-gradient(to right,#33ccff,#ff99cc);
+	letter-spacing: .1em;
+	top: 20%;
+}
+h1{
+	font: 600 3.5em Lucida,sans-serif;
+	color: rgba(0,0,0,.6);
+	letter-spacing: .5em;
+	text-transform: uppercase;
+	width: 100%;
+}
+#colorPicker{
+	margin-top: 40px;
+}
+h2{
+
+	font: 900 1.8em Lucida;
+	color: rgba(0,0,0,.6);
+	letter-spacing: .2em;
+	text-transform: uppercase;
+	margin-top: 50px;
+}
